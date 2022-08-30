@@ -1,0 +1,10 @@
+gunicorn
+flask
+mechanize
+pytz
+datetime
+firebase_admin
+fake_useragent
+mechanize
+bs4
+logger
